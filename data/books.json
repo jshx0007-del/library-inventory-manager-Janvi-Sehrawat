@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "isbn": "9780747532699",
+        "status": "available"
+    },
+    {
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert T. Kiyosaki",
+        "isbn": "9781612680194",
+        "status": "available"
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "isbn": "9781847941831",
+        "status": "available"
+    },
+    {
+        "title": "Harry Potter and the Chambers of Secrets",
+        "author": "J.K. Rowling",
+        "isbn": "345678",
+        "status": "available"
+    }
+]
