@@ -17,9 +17,13 @@ It is built using Object-Oriented Programming (OOPS) concepts and stores all boo
 ## The project shows practical use of:
 
 ->  Classes and objects
+
 ->  File handling
+
 ->  Exception handling
+
 ->  JSON data storage
+
 ->  Menu-driven CLI design
 
 ---
