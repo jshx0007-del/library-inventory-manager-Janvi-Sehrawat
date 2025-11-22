@@ -12,6 +12,8 @@ This system allows users to:
 
 It is built using Object-Oriented Programming (OOPS) concepts and stores all book data in a JSON file.
 
+---
+
 ## The project shows practical use of:
 
 ->  Classes and objects
